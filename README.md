@@ -26,5 +26,8 @@ python data_cleaning.py
 \`\`\` 
 ECHO is on.
 ## Results 
-- The cleaned data is saved as \`cleaned_diabetes_data.csv\`. 
-- The distribution of the target variable (\`Diabetes_012\`) is saved as \`diabetes_distribution.png\`. 
+## Results
+- The cleaned data is saved as `cleaned_diabetes_data.csv`.
+- The distribution of the target variable (`Diabetes_012`) is saved as `diabetes_distribution.png`.
+- The correlation matrix is saved as `correlation_matrix.png`.
+- The relationship between BMI and `Diabetes_012` is saved as `bmi_vs_diabetes.png`.
